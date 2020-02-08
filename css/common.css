@@ -1,0 +1,20 @@
+/*公共样式*/
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+.fr .icomoon {
+	font-family: 'icomoon';
+	font-size: 16px;
+	line-height: 26px;
+}
+/*版心*/
+.w {
+	width: 1200px;
+	margin: 0 auto;
+}
+.style-red {
+	color: #c81623;
+}
