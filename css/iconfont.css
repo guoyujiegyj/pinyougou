@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1581225924089'); /* IE9 */
+  src: url('iconfont.eot?t=1581225924089#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAARsAAsAAAAACSQAAAQfAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDGgqFSIRGATYCJAMUCwwABCAFhG0HWhvMB8gOJYmgwACgAAxmPHytoe/v7kEIXaIQdXg8gU9UhCVhyJnYVvjKjmcj7ufzspemHK+czsIVnU5/MlMks5kUHhQ+AdzdE4yTrgD+55jpEnxvlH9tc8oKiqbxKIEGFHlVdNh6B3gHckB+w9jFZTxOoNe0PbDjoIgEMFdohwLxqKJJMI/plZLS0Ap1zqUF4hNMtKnZ6Cbw4f5+/IetMAdJlUF70slDYB74/IJfGdf+18rIOtD2ZwVzFRkrQCHucu0XcD++Atcr2Y0tlG8ugl/5/39+sfmztZNq/+MVogZN3g+x+4nCLyabxK9gk/mVBDsqgMKbIa/s/b0YA34QQ1g90+eqMCD6pWKx+ToTj4ktLL63SGRecOjWo4cPH59/srvniP3Fh8Too9BrT/wvPPaav664/7jlYcxDfSKinxhSEpIeG5IfPGl9FPtIT8bSK1dRMahSMn0aS+/p35bU3d3TsyLxEdy8zq2QtnZpO5OY7LOLpuYAXk8yRT0LGKbrFjBlmkQBuutc68KArn++ZXY28fBp3ZnWU9qTSZOz2iyHbp5EXL8NWJMmaunW9QjFI/QnhJ+RHYNWraDj8v7v5XRIwuU+QRuCVhw0DV14x0bfTQ+/ueisbOreJ7czFhYvlr40Mgx0e88auIEyQ4xmy26d63km5350sJJiN1LM0lrHDvxVllLMRsCa3nPnZXDsWJ9OD24bvS13+zZgzySfNNnSnMoNMznZMn+BB/ZMlvCi1axX2uxMpmFnmzZg5Kyd+v3qv+sDSuSJZ8skfwUnBfXWmIc0MPaUzxLxXfndv/I/9+T3RN6k7GkAIlvW2PTtsD7Y611Mb3lXLBfds0R4eW8F3Ao0GeU1xNyOue115dEZZn2SPjN71JSM5ELpU/P5c9hsT+h1UAbQafMIDp8K3en0H98FIH/hqwHI34xq/pJdPhM6YrKlHl/NhZdq4uf90Yuur9MWaF+glagt+CcENfuKLNIMVREbTb5YVHkDsTuu1auH6EBzj3rWj3KidjGhNRFC0piCrDWDLNgVqPTZgVprD3otC766zxgOLooFsKQeQBh2EJJB3yEbdgtZsE+hMukt1IYDh15XseyWfeZCJfDnEMmjPCK3nFApWIYyTLzAK41DdHEhyUVFLiEJcRpViLC1skmmghGDuD7O0JTQdjxPERTHFhFB4GmosJAl1BybjxS8lZLn1W7W1lTeC1kp2CIQOMJBSDwkDyFXOYKKAotB2eN5gtTPx0FoxQqRuJKmEmcShKOhWp5gy4pNDWSwnKnVdC7rNUrQ7PB4FN5H4bCKEIKgFSnU4yyCOn9bPkSBZ0XZIqrmxhoNo+rKrcZXFl3jBeil3aEKIwzHjDETzBTaR1ZB8qfwh0JORSt5X45jSzXGGiWrliVy9ypYdTkAAA==') format('woff2'),
+  url('iconfont.woff?t=1581225924089') format('woff'),
+  url('iconfont.ttf?t=1581225924089') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1581225924089#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-location:before {
+  content: "\e602";
+}
+
+.icon-rightArrows:before {
+  content: "\e600";
+}
+
+.icon-shop:before {
+  content: "\e601";
+}
+
+.icon-rightArrows-copy:before {
+  content: "\e603";
+}
+

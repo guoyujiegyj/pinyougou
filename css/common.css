@@ -1,4 +1,4 @@
-/*公共样式*/
+/*公用头部和底部的公共样式*/
 .fl {
 	float: left;
 }
@@ -17,4 +17,22 @@
 }
 .style-red {
 	color: #c81623;
+}
+.shotcut{
+	height: 31px;
+	line-height: 31px;
+	background-color: #f1f1f1;
+}
+/*快捷导航li之间的竖线*/
+.shotcut li.spacer{
+	width: 1px;
+	height: 12px;
+	background-color: #666;
+	margin: 9px 15px 0;
+}
+.shotcut .iconfont{
+	font-size: 10px;
+	cursor: pointer;
+	color: #6e6e6e;
+	padding-left: 6px;
 }
